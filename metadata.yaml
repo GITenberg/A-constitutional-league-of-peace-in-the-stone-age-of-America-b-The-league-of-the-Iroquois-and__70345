@@ -1,0 +1,30 @@
+_repo: A-constitutional-league-of-peace-in-the-stone-age-of-America-b-The-league-of-the-Iroquois-and__70345
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hewitt, J. N. B. (John Napoleon Brinton)
+    alias: Hewitt, John Napoleon Brinton
+    birthdate: 1859
+    deathdate: 1937
+    gutenberg_agent_id: '45401'
+    url: http://www.gutenberg.org/2009/agents/45401
+    wikipedia: https://en.wikipedia.org/wiki/John_Napoleon_Brinton_Hewitt
+description: ''
+gutenberg_issued: '2023-03-22'
+identifiers:
+  gutenberg: '70345'
+language: en
+pgterms:marc905: 20230112182302hewitt
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Robert Tonsing and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bThe Smithsonian Institution, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A constitutional league of peace in the stone age of America : $b The league
+  of the Iroquois and its constitution'
+url: http://www.gutenberg.org/ebooks/70345
